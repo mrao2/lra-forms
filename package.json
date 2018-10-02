@@ -1,0 +1,19 @@
+{
+  "name": "lra-forms",
+  "version": "1.0.0",
+  "description": "forms for the LRA",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrao2/lra-forms.git"
+  },
+  "author": "Mohith Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrao2/lra-forms/issues"
+  },
+  "homepage": "https://github.com/mrao2/lra-forms#readme"
+}
